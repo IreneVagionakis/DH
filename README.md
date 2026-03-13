@@ -145,7 +145,6 @@ Scientific articles, monographs etc., enriched with images, audio, video, naviga
 - Journal of the TEI (jTEI): https://journals.openedition.org/jtei/
 - Zeitschrift für digitale Geisteswissenschaften (ZfdG): http://www.zfdg.de/
 - Current Epigraphy (CurE - not only digital): https://currentepigraphy.org/
-- Code Project (general IT news): https://main.codeproject.com/
 - digihum.de: http://digihum.de/
 - DHd blog: https://dhd-blog.org/
 
