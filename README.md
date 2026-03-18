@@ -142,6 +142,7 @@ Scientific articles, monographs etc., enriched with images, audio, video, naviga
 - Russell, Stuart; Norvig, Peter, Artificial Intelligence, A Modern Approach, 2021
 - AI documentation: http://platform.openai.com/docs, https://platform.claude.com/docs, https://huggingface.co/docs
 - Digital Humanities Quarterly (dhq): http://www.digitalhumanities.org/dhq/
+- RIDE. A Review Journal for Scholarly Digital Editions and Resources: https://ride.i-d-e.de/
 - Journal of the TEI (jTEI): https://journals.openedition.org/jtei/
 - Zeitschrift für digitale Geisteswissenschaften (ZfdG): http://www.zfdg.de/
 - Current Epigraphy (CurE - not only digital): https://currentepigraphy.org/
