@@ -138,6 +138,7 @@ Scientific articles, monographs etc., enriched with images, audio, video, naviga
 ## 8. DH readings
 - Burdick, Anne; Drucker, Johanna; Lunenfeld, Peter; Presner, Todd; Schnapp, Jeffrey, Digital_Humanities, 2012
 - Pierazzo, Elena, Digital Scholarly Editing: Theories, Models and Methods, 2014
+- Bleier, Roman; Bürgermeister, Martina; Klug, Helmut, et al. (eds.), Digital Scholarly Editions as Interfaces, 2018
 - Flanders, Julia; Jannidis, Fotis, The shape of data in the digital humanities. Modeling texts and text-based resources, 2019
 - Russell, Stuart; Norvig, Peter, Artificial Intelligence, A Modern Approach, 2021
 - AI documentation: http://platform.openai.com/docs, https://platform.claude.com/docs, https://huggingface.co/docs
