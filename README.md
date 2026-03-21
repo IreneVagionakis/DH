@@ -82,6 +82,7 @@ Scientific articles, monographs etc., enriched with images, audio, video, naviga
 - Resource Description Framework (RDF): https://www.w3.org/RDF/
 - eXtensible Markup Language (XML): https://it.wikipedia.org/wiki/XML, https://www.w3.org/XML/
 - FAIR principles: https://www.go-fair.org/fair-principles/
+- Open Archives Initiative - Protocol for Metadata Harvesting (OAI-PMH): https://www.openarchives.org/pmh/
 
 ## 4. Open data sources
 - Wikidata: https://www.wikidata.org, SPARQL endpoint https://query.wikidata.org
