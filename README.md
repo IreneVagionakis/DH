@@ -108,6 +108,7 @@ Scientific articles, monographs etc., enriched with images, audio, video, naviga
 - Fondazione Bruno Kessler DH projects: https://dh.fbk.eu/category/projects/
 - Stanford Literary Lab projects (cf. Distant Reading): https://litlab.stanford.edu/
 - Catalog of Digital Scholarly Editions: http://www.digitale-edition.de/
+- Projects Using the TEI: https://tei-c.org/activities/projects/
 - CGRN: http://cgrn.ulg.ac.be/
 - Erasmiana: https://www.erasmiana.org/
 - Jheronimus Bosch: https://archief.ntr.nl/tuinderlusten/en.html
